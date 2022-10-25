@@ -1,8 +1,8 @@
 #Melyik szám a nagyobb?
 
 
-szam1 = input("Kerem a szamot: ")
-szam2 = input("Kerem a szamot: ")
+szam1 = int(input("Kerem a szamot: "))
+szam2 = int(input("Kerem a szamot: "))
 
 
 
